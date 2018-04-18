@@ -37,3 +37,4 @@ nbactions.xml
 
 # End of https://www.gitignore.io/api/java,netbeans
 /MedidasEstadisticas/nbproject/private/
+/Vendedores/nbproject/private/

@@ -28,7 +28,7 @@ public class MedidasEstadisticas {
         System.out.println("Promedio: " + array_instance.process_average());
         System.out.println("Moda: " + array_instance.process_mode());
         System.out.println("Varianza: " + array_instance.process_variance());
-        
+        array_instance.print_array();
     }
     
 }

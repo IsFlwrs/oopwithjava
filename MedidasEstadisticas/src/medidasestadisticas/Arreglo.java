@@ -87,4 +87,10 @@ public class Arreglo {
         
         return this.mode;
     }
+    
+    public void print_array(){
+        System.out.println("Datos almacenados en un arreglo de tamanio " + this.array_size);
+        for (int i = 0; i < this.array_size; i++)
+            System.out.print(this.arreglo[i] + " ");
+    }
 }
